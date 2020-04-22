@@ -1,0 +1,1 @@
+# Reporting-Register-Azure-Cognitive-Translate-Service
